@@ -7,7 +7,6 @@ I'm a dedicated Full-Stack Developer with a passion for bringing ideas to life, 
 Whether it's creating powerful **Python/Node.js backends** or crafting **native-feeling mobile apps** using Flutter, Swift, and Kotlin, I love tackling complex engineering challenges. Let's build something awesome together! I'm always looking to **collaborate** and contribute to open-source projects.
 
 ---
-[attachment_0](attachment)
 ## 🛠️ My Developer Toolkit (Tech Stack)
 
 My versatile skill set covers the entire development lifecycle, enabling end-to-end magic ✨.
