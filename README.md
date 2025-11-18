@@ -24,15 +24,19 @@ My skill set covers the entire stack, enabling end-to-end development of modern 
 
 ---
 
-## 🎯 Current Focus & Featured Projects
+## 🎯 Current Focus & Live Projects
 
 I am currently working on scaling up my Django/Flutter projects and learning [mention a specific new technology, e.g., Docker/Kubernetes].
 
-### Pinned Projects Showcase:
-* **[Project Name 1]:** [Short, exciting description of your best project. Why is it cool?]
-* **[Project Name 2]:** [Short description of a project that shows off a different skill, like your Flutter app.]
+### 🌟 Featured Live Applications:
+Showcasing my commitment to delivering complete, functional products.
 
-*(Remember to pin these actual repositories on your profile!)*
+* **Chekki:** A [briefly describe what Chekki is, e.g., task manager, e-commerce prototype].
+    * **Live Link:** [https://chekki-1.web.app](https://chekki-1.web.app)
+* **The Gathering Place App:** A [briefly describe this app, e.g., community forum, local service platform].
+    * **Live Link:** [https://thegatheringplace-app.web.app](https://thegatheringplace-app.web.app)
+
+*(Remember to pin the corresponding source code repositories for these apps on your profile!)*
 
 ---
 
@@ -51,7 +55,6 @@ Here is a glimpse of my recent activity and language usage.
 I am actively open to new opportunities, collaborations, and discussions on tech.
 
 * **Portfolio/Website:** [https://damise-1free.web.app]
-* **LinkedIn:** [Your LinkedIn Profile URL is HIGHLY recommended here!]
 * **Email:** [mailto:isemuk8@gmail.com]
 
 <p align="center">
