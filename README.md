@@ -31,9 +31,9 @@ I am currently working on scaling up my Django/Flutter projects and learning [me
 ### 🌟 Featured Live Applications:
 Showcasing my commitment to delivering complete, functional products.
 
-* **Chekki:** A [briefly describe what Chekki is, e.g., task manager, e-commerce prototype].
+* **Chekki:** A prototype of my new app which will allow businesses to sell products and promote themselves while simultaneously allowing users to rate businesses they visit. If anyone is interested, we can collaborate on enhancing it.
     * **Live Link:** [https://chekki-1.web.app](https://chekki-1.web.app)
-* **The Gathering Place App:** A [briefly describe this app, e.g., community forum, local service platform].
+* **The Gathering Place App:** A church connect, built to spread the word of God by Pastor Clark in the USA to all the churches worldwide.
     * **Live Link:** [https://thegatheringplace-app.web.app](https://thegatheringplace-app.web.app)
 
 *(Remember to pin the corresponding source code repositories for these apps on your profile!)*
