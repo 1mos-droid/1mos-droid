@@ -56,5 +56,5 @@ I'm always excited about new opportunities, cool collaborations, and discussing 
 * **Email:** [mailto:isemuk8@gmail.com]
 
 <p align="center">
-    Thanks for stopping by! Happy coding! ✨
+    Thanks for stopping by! Happy coding! ✨![1763634005666.gif](https://github.com/user-attachments/assets/93252d5c-353f-49ae-ba7e-b2bf6e27065c)
 </p>
