@@ -50,7 +50,7 @@ Commissioned by **Pastor Clark (USA)**.
 | GitHub Stats | Top Languages |
 | :--- | :--- |
 | [![GitHub Stats](https://stats-plum-nine.vercel.app/api?username=1mos-droid&show_icons=true&theme=github_dark_dimmed&bg_color=15,0e141b,082c42&hide_border=true&hide_rank=false&rank_icon=github&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
- | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&layout=compact&theme=buefy&langs_count=6) |
+|
 
 ---
 
