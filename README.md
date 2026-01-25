@@ -45,12 +45,16 @@ Commissioned by **Pastor Clark (USA)**.
 
 ---
 
-## 📊 GitHub Vitals
-
-| GitHub Stats
-| :--- |
-| [![GitHub Stats](https://stats-plum-nine.vercel.app/api?username=1mos-droid&show_icons=true&theme=github_dark_dimmed&bg_color=15,0e141b,082c42&hide_border=true&hide_rank=false&rank_icon=github&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
-
+## 📊 GitHub 
+<h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=1mos-droid&theme=dark&hide_border=false" width="100%" alt="Streak Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="50%" alt="Top Langs" />
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
 ---
 
 ## 📬 Let's Chat!
