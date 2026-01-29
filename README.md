@@ -1,70 +1,71 @@
-# Hey there! I'm Moses 👋
+<div align="center">
 
-### 🌍 Full-Stack Architect | Building Web & Mobile Magic from Mallam, Accra
+# Moses • Architect & Engineer
 
-I'm a dedicated Full-Stack Developer with a passion for bringing ideas to life — from the database all the way to your phone screen! I specialize in building **robust, scalable, and beautiful digital solutions**.
+### Building Mission-Critical Software for Web and Mobile
 
-Whether it's creating powerful **Python/Node.js backends** or crafting **native-feeling mobile apps** with **Flutter, Swift, and Kotlin**, I love tackling complex engineering challenges. I'm always open to **collaboration** and enjoy contributing to open-source projects.
+I am a software architect who engineers robust, scalable, and elegant digital platforms. My work begins at the foundational level of system design and extends to the delivery of pixel-perfect, native-performing mobile applications. I don't just build features; I build strategic assets that drive business outcomes.
 
----
-
-## 🛠️ My Developer Toolkit (Tech Stack)
-
-My skill set spans the entire development lifecycle, enabling end-to-end digital magic ✨.
-
-### 💻 Full-Stack & Core Technologies
-
-| Category | Tools |
-| :--- | :--- |
-| **Backend Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
-| **Frontend Frameworks** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-
----
-
-## 💡 What I'm Building & Learning
-
-Currently focusing on scaling Django + Flutter projects and diving deeper into **Docker** and **Kubernetes**.
-
----
-
-## 🌟 Live Projects You Can Use Right Now
-
-### **Chekki — Business & E-Commerce Platform (Prototype)**  
-A business and e-commerce prototype allowing businesses to **sell products, promote themselves, and receive reviews**.  
-🔗 **Live:** https://chekki-1.web.app
-
----
-
-### **The Gathering Place App — Global Content & Community Hub**  
-A global connector designed for churches, enabling sharing of content, teachings, and outreach.  
-Commissioned by **Pastor Clark (USA)**.  
-🔗 **Live:** https://thegatheringplace-app.web.app
-
----
-
-## 📊 GitHub 
-<h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
-      <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=1mos-droid&theme=dark&hide_border=false" width="100%" alt="Streak Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="50%" alt="Top Langs" />
-    </td>
-    <td width="50%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
----
-
-## 📬 Let's Chat!
-
-I'm always excited about new opportunities, collaborations, and discussing the latest in tech.
-
-- **Portfolio/Website:** https://damise-1free.web.app  
-- **Email:** isemuk8@gmail.com  
-
-<p align="center">
-    Thanks for stopping by! Happy coding! ✨<br><br>
-    <img src="https://github.com/user-attachments/assets/93252d5c-353f-49ae-ba7e-b2bf6e27065c" width="300"/>
+<p>
+  <a href="https://damise-1free.web.app" style="margin-right: 8px;"><b>View Portfolio</b></a> |
+  <a href="mailto:isemuk8@gmail.com" style="margin-left: 8px; margin-right: 8px;"><b>Contact Me</b></a> |
+  <a href="https://github.com/1mos-droid" style="margin-left: 8px;"><b>Review My Code on GitHub</b></a>
 </p>
+</div>
+
+---
+
+## Areas of Expertise
+
+I possess a deep, cross-functional skill set that enables me to lead projects from conception to deployment. My expertise is centered around creating resilient, high-performance systems.
+
+| Capability                  | Technologies & Languages                                                                          |
+| :-------------------------- | :------------------------------------------------------------------------------------------------ |
+| **Backend Architecture**    | Building resilient, high-traffic backend systems with **Python (Django)** and **Node.js (Express)**.|
+| **Cross-Platform Mobile**   | Delivering fluid, native experiences on iOS & Android using **Flutter**, **Swift**, and **Kotlin**. |
+| **Database Systems**        | Designing and managing optimized, reliable data layers with **PostgreSQL**.                       |
+| **Frontend Engineering**    | Crafting responsive, interactive user interfaces with **Angular**, **HTML5**, and **CSS3**.         |
+| **Core Languages**          | **Python** • **JavaScript** • **C++**                                                             |
+
+My current professional development is focused on mastering containerization and orchestration with **Docker** and **Kubernetes** to further enhance system scalability and resilience.
+
+---
+
+## Project Showcase
+
+The following projects represent my ability to deliver full-stack solutions that solve real-world problems.
+
+<details>
+<summary>
+  <h3>Chekki — E-Commerce & Business Platform</h3>
+</summary>
+
+- **Objective:** To provide a comprehensive digital storefront and marketing platform for small to medium-sized businesses.
+- **My Role:** Lead Architect and Full-Stack Developer, responsible for the end-to-end design and implementation of the backend, database, and mobile application.
+- **Key Technologies:** `Python (Django)`, `Flutter`, `PostgreSQL`
+- **Live Prototype:** [chekki-1.web.app](https://chekki-1.web.app)
+</details>
+
+<details>
+<summary>
+  <h3>The Gathering Place — Global Community App</h3>
+</summary>
+
+- **Objective:** To connect a geographically dispersed church community through a centralized mobile platform for content and event sharing.
+- **My Role:** Commissioned to develop the complete mobile application, from UI/UX design to backend integration and deployment.
+- **Key Technologies:** `Flutter`, `Firebase`
+- **Live Application:** [thegatheringplace-app.web.app](https://thegatheringplace-app.web.app)
+</details>
+
+---
+
+<div align="center">
+
+### GitHub Statistics & Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="50%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="50%" alt="Top Langs" />
+<br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=1mos-droid&theme=dark&hide_border=false" alt="Streak Stats"/>
+
+</div>
