@@ -1,75 +1,70 @@
 <div align="center">
 
-# Moses • Architect & Engineer
+# 🌌 Moses • The Digital Architect
 
-### Building Mission-Critical Software for Web and Mobile
+### "I don't just build features; I engineer ecosystems."
 
-I am a software architect who engineers robust, scalable, and elegant digital platforms. My work begins at the foundational level of system design and extends to the delivery of pixel-perfect, native-performing mobile applications. I don't just build features; I build strategic assets that drive business outcomes.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6f42c1?style=for-the-badge&logo=react&logoColor=white)](https://damise-1free.web.app)
+[![Contact](https://img.shields.io/badge/Email-Get%20In%20Touch-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isemuk8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Code%20Audit-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1mos-droid)
 
-<p>
-  <a href="https://damise-1free.web.app" style="margin-right: 8px;"><b>View Portfolio</b></a> |
-  <a href="mailto:isemuk8@gmail.com" style="margin-left: 8px; margin-right: 8px;"><b>Contact Me</b></a> |
-  <a href="https://github.com/1mos-droid" style="margin-left: 8px;"><b>Review My Code on GitHub</b></a>
+---
+
+<p align="center">
+  <b>Architecting foundational integrity. Engineering fluid performance.</b><br>
+  I am a software architect driven by the intersection of <i>elegance</i> and <i>scalability</i>. My mission is to transform high-level strategy into mission-critical software—starting from the deep logic of a server cluster to the pixel-perfect responsiveness of a mobile screen.
 </p>
+
 </div>
 
 ---
 
-## Areas of Expertise
+## 🛠️ The Master Stack
 
-I possess a deep, cross-functional skill set that enables me to lead projects from conception to deployment. My expertise is centered around creating resilient, high-performance systems.
-
-| Capability                  | Technologies & Languages                                                                          |
-| :-------------------------- | :------------------------------------------------------------------------------------------------ |
-| **Backend Architecture**    | Building resilient, high-traffic backend systems with **Python (Django)** and **Node.js (Express)**.|
-| **Cross-Platform Mobile**   | Delivering fluid, native experiences on iOS & Android using **Flutter**, **Swift**, and **Kotlin**. |
-| **Database Systems**        | Designing and managing optimized, reliable data layers with **PostgreSQL**.                       |
-| **Frontend Engineering**    | Crafting responsive, interactive user interfaces with **Angular**, **HTML5**, and **CSS3**.         |
-| **Core Languages**          | **Python** • **JavaScript** • **C++**                                                             |
-
-My current professional development is focused on mastering containerization and orchestration with **Docker** and **Kubernetes** to further enhance system scalability and resilience.
+| **Domain** | **Tools of the Trade** |
+| :--- | :--- |
+| **Backend & Core** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat-square&logo=django&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Mobile & Native** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) |
+| **Web & Interface** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Data & Infra** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
 
 ---
 
-## Project Showcase
+## 🏗️ Featured Works
 
-The following projects represent my ability to deliver full-stack solutions that solve real-world problems.
+### 💎 Chekki — *The Merchant’s Edge*
+> **Role:** Lead Architect
+> A high-performance e-commerce engine designed to give small businesses big-tech muscle. From Python-driven logic to a fluid Flutter UI, I handled the entire evolution.
+> [Explore Chekki →](https://chekki-1.web.app)
 
-<details>
-<summary>
-  <h3>Chekki — E-Commerce & Business Platform</h3>
-</summary>
+### ⛪ The Gathering Place — *Faith Without Borders*
+> **Role:** Full-Stack Developer
+> Bridging geographically dispersed communities. This wasn't just an app; it was a digital sanctuary built on Flutter and Firebase to keep thousands connected in real-time.
+> [Visit the App →](https://thegatheringplace-app.web.app)
 
-- **Objective:** To provide a comprehensive digital storefront and marketing platform for small to medium-sized businesses.
-- **My Role:** Lead Architect and Full-Stack Developer, responsible for the end-to-end design and implementation of the backend, database, and mobile application.
-- **Key Technologies:** `Python (Django)`, `Flutter`, `PostgreSQL`
-- **Live Prototype:** [chekki-1.web.app](https://chekki-1.web.app)
-</details>
+---
 
-<details>
-<summary>
-  <h3>The Gathering Place — Global Community App</h3>
-</summary>
-
-- **Objective:** To connect a geographically dispersed church community through a centralized mobile platform for content and event sharing.
-- **My Role:** Commissioned to develop the complete mobile application, from UI/UX design to backend integration and deployment.
-- **Key Technologies:** `Flutter`, `Firebase`
-- **Live Application:** [thegatheringplace-app.web.app](https://thegatheringplace-app.web.app)
-</details>
+## 🔭 The Next Horizon
+I am currently **Locking In** on cloud orchestration. Mastering **Docker** and **Kubernetes** to ensure the systems I architect don't just survive traffic—they thrive in it.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="1mos-droid's GitHub Stats" />
-  
-  <br />
-  <br />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true" alt="1mos-droid's Top Languages" />
-  
-  <br />
-  <br />
+### 📊 System Vital Signs
 
-  <img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" alt="1mos-droid's GitHub Streak" />
+<img src="https://github-readme-stats.shion.dev/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true" height="170" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" />
+
+<br />
+<br />
+
+*"Great engineering is invisible. It’s the feeling of a platform that just works."*
+<br>
+**— Moses**
+
 </div>
-
