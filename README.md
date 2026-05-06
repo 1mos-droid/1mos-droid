@@ -63,9 +63,12 @@ The following projects represent my ability to deliver full-stack solutions that
 
 ### GitHub Statistics & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="50%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="50%" alt="Top Langs" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/1mos-droid)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true)](https://github.com/1mos-droid)
+
 <br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=1mos-droid&theme=dark&hide_border=false" alt="Streak Stats"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true)](https://github.com/1mos-droid)
+
 
 </div>
