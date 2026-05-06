@@ -70,6 +70,6 @@ The following projects represent my ability to deliver full-stack solutions that
   <br />
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true" alt="1mos-droid's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" alt="1mos-droid's GitHub Streak" />
 </div>
 
