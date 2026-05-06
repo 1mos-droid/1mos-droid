@@ -60,15 +60,16 @@ The following projects represent my ability to deliver full-stack solutions that
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_bust=1" alt="1mos-droid's GitHub Stats" />
+  
+  <br />
+  <br />
 
-### GitHub Statistics & Activity
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true&cache_bust=1" alt="1mos-droid's Top Languages" />
+  
+  <br />
+  <br />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/1mos-droid)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true)](https://github.com/1mos-droid)
-
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true)](https://github.com/1mos-droid)
-
-
+  <img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" alt="1mos-droid's GitHub Streak" />
 </div>
+
