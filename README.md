@@ -3,6 +3,7 @@
 # 🌌 Moses • The Digital Architect
 
 ### "I don't just build features; I engineer ecosystems."
+[![committers.top badge](https://user-badge.committers.top/ghana_private/1mos-droid.svg)](https://user-badge.committers.top/ghana_private/1mos-droid)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6f42c1?style=for-the-badge&logo=react&logoColor=white)](https://damise-1free.web.app)
 [![Contact](https://img.shields.io/badge/Email-Get%20In%20Touch-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isemuk8@gmail.com)
