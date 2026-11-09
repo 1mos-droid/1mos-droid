@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=650&lines=Kumesi+Moses+Mawulolo;Systems+Engineer+%7C+AI+Builder;Full-Stack+Developer+%40+LucidLabs" alt="Typing SVG" />
@@ -17,9 +18,9 @@
 
 <table align="center">
 <tr>
-<td align="center">🎓<br/><b>Studying</b><br/>Physics & Computer Science<br/><sub>University of Ghana, Legon</sub></td>
+<td align="center">🎓<br/><b>Studying</b><br/>Physics &amp; Computer Science<br/><sub>University of Ghana, Legon</sub></td>
 <td align="center">🧩<br/><b>Leading</b><br/>LucidLabs<br/><sub>Student engineering team</sub></td>
-<td align="center">🧠<br/><b>Exploring</b><br/>AI Infrastructure & Agents<br/><sub>Local + cloud LLM systems</sub></td>
+<td align="center">🧠<br/><b>Exploring</b><br/>AI Infrastructure &amp; Agents<br/><sub>Local + cloud LLM systems</sub></td>
 <td align="center">🐧<br/><b>Driving</b><br/>Arch Linux<br/><sub>btw</sub></td>
 </tr>
 </table>
@@ -64,84 +65,88 @@ I run **Arch Linux** as a daily driver and prefer understanding how things work 
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Project ATOM
-**UG Chemistry Student Hub · LucidLabs**
+<h3>🧪 Project ATOM</h3>
+<strong>UG Chemistry Student Hub · LucidLabs</strong>
 
-Full-stack platform built for the University of Ghana Chemistry Department (CHEMSA-UG), replacing fragmented paper and messaging workflows with a centralized system — lab session booking with live capacity tracking, deadline enforcement, resource distribution, announcements, complaint management, and Paystack-powered souvenir purchases.
+<p>Full-stack platform built for the University of Ghana Chemistry Department (CHEMSA-UG), replacing fragmented paper and messaging workflows with a centralized system — lab session booking with live capacity tracking, deadline enforcement, resource distribution, announcements, complaint management, and Paystack-powered souvenir purchases.</p>
 
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Paystack](https://img.shields.io/badge/-Paystack-00C3F7?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/-Paystack-00C3F7?style=flat-square&logoColor=white" alt="Paystack" />
 
-[Live App →](https://atom-5cb26.web.app) · [Student Demo →](https://youtu.be/938bIR7If8E) · [Admin Demo →](https://youtu.be/J3bfXq46BFM)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Multi-LLM Orchestrator
-**Local AI Router · Personal Project**
-
-A Node.js AI routing system for environments where latency, hardware limits, and network availability matter — dynamically deciding whether a query goes to Groq for fast cloud inference, Hugging Face for broader model access, or local Ollama for offline inference, based on query complexity and network conditions.
-
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💎 Chekki
-**Digital Business Platform · Lead Architect**
-
-A platform helping small businesses establish a serious digital presence without enterprise-software complexity. Owned architecture and full-stack development across business discovery, profiles, reviews, digital storefront functionality, and cloud-backed infrastructure.
-
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[Explore Chekki →](https://chekki-1.web.app)
+<p>
+<a href="https://atom-5cb26.web.app">Live App →</a> ·
+<a href="https://youtu.be/938bIR7If8E">Student Demo →</a> ·
+<a href="https://youtu.be/J3bfXq46BFM">Admin Demo →</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### ⛪ The Gathering Place
-**Community Platform · Full-Stack Developer**
+<h3>🤖 Multi-LLM Orchestrator</h3>
+<strong>Local AI Router · Personal Project</strong>
 
-A real-time digital community platform for a geographically distributed congregation — live broadcasts, announcements, shared resources, community communication, and administrative content management.
+<p>A Node.js AI routing system for environments where latency, hardware limits, and network availability matter — dynamically deciding whether a query goes to Groq for fast cloud inference, Hugging Face for broader model access, or local Ollama for offline inference, based on query complexity and network conditions.</p>
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[Visit App →](https://thegatheringplace-app.web.app)
+<img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 ScriptOps
-**Multi-Agent Screenplay Pipeline · LucidLabs**
+<h3>💎 Chekki</h3>
+<strong>Digital Business Platform · Lead Architect</strong>
 
-An agentic AI pipeline built for the Google Cloud Agentic Cinema Hackathon. Coordinates specialized AI agents to turn a screenplay into a structured production package — scene breakdowns, shot lists, casting suggestions, budget estimates, and production planning — through an orchestration layer that manages the flow end to end.
+<p>A platform helping small businesses establish a serious digital presence without enterprise-software complexity. Owned architecture and full-stack development across business discovery, profiles, reviews, digital storefront functionality, and cloud-backed infrastructure.</p>
 
-![Multi-Agent](https://img.shields.io/badge/-Multi--Agent%20AI-6f42c1?style=flat-square)
-![Orchestration](https://img.shields.io/badge/-Orchestration-6f42c1?style=flat-square)
+<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+
+<p><a href="https://chekki-1.web.app">Explore Chekki →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 WhatsApp AI Auto-Responder
-**Open Source · Personal Project**
+<h3>⛪ The Gathering Place</h3>
+<strong>Community Platform · Full-Stack Developer</strong>
 
-A self-hosted WhatsApp auto-responder pairing Baileys with Groq for fast LLM replies, controlled through a companion Flutter dashboard.
+<p>A real-time digital community platform for a geographically distributed congregation — live broadcasts, announcements, shared resources, community communication, and administrative content management.</p>
 
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 
-[View Repo →](https://github.com/1mos-droid/whatsapp-auto-responder)
+<p><a href="https://thegatheringplace-app.web.app">Visit App →</a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📡 ScriptOps</h3>
+<strong>Multi-Agent Screenplay Pipeline · LucidLabs</strong>
+
+<p>An agentic AI pipeline built for the Google Cloud Agentic Cinema Hackathon. Coordinates specialized AI agents to turn a screenplay into a structured production package — scene breakdowns, shot lists, casting suggestions, budget estimates, and production planning — through an orchestration layer that manages the flow end to end.</p>
+
+<img src="https://img.shields.io/badge/-Multi--Agent%20AI-6f42c1?style=flat-square" alt="Multi-Agent AI" />
+<img src="https://img.shields.io/badge/-Orchestration-6f42c1?style=flat-square" alt="Orchestration" />
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💬 WhatsApp AI Auto-Responder</h3>
+<strong>Open Source · Personal Project</strong>
+
+<p>A self-hosted WhatsApp auto-responder pairing Baileys with Groq for fast LLM replies, controlled through a companion Flutter dashboard.</p>
+
+<img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+
+<p><a href="https://github.com/1mos-droid/whatsapp-auto-responder">View Repo →</a></p>
 
 </td>
 </tr>
@@ -165,11 +170,11 @@ A self-hosted WhatsApp auto-responder pairing Baileys with Groq for fast LLM rep
 
 <table>
 <tr>
-<td>🤖 Artificial Intelligence & Agentic Systems</td>
+<td>🤖 Artificial Intelligence &amp; Agentic Systems</td>
 <td>⚙️ Systems Programming</td>
 </tr>
 <tr>
-<td>🧩 LLM Infrastructure & Local Inference</td>
+<td>🧩 LLM Infrastructure &amp; Local Inference</td>
 <td>🌐 Distributed Systems</td>
 </tr>
 <tr>
@@ -190,20 +195,20 @@ I like working where multiple layers meet — where software architecture, infra
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1mos-droid&theme=blue_green" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1mos-droid&theme=blue_green" alt="GitHub Profile Summary" />
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api?username=1mos-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1mos-droid&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" />
+<img src="https://streak-stats.demolab.com/?user=1mos-droid&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=1mos-droid&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=1mos-droid&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -211,10 +216,18 @@ I like working where multiple layers meet — where software architecture, infra
 
 <div align="center">
 
-### Build. Understand. Iterate.
+<h3>Build. Understand. Iterate.</h3>
 
-*Always learning. Always building.*
+<i>Always learning. Always building.</i>
 
-<img src="https://komarev.com/ghpvc/?username=1mos-droid&style=flat-square&color=6f42c1&label=Profile+Views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=1mos-droid&style=flat-square&color=6f42c1&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/1mos-droid/1mos-droid/output/tulkun/tulkun.gif" width="640" alt="1mos-droid's git-tulkun" />
+  </a>
+</p>
